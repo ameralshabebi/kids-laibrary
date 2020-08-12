@@ -1,13 +1,13 @@
 # kids-laibrary
 
 Hi inside the zip
-you will find to files 
+you will find two files 
 
 
 
 
 
-one is webpage 
+one is web page 
 other is android apk 
 
 
